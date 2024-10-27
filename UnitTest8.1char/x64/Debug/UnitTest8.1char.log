@@ -1,0 +1,7 @@
+﻿  pch.cpp
+  UnitTest8.1char.cpp
+D:\project\LB8.1char\LB8.1char\main.cpp(38,18): warning C4244: 'initializing': conversion from '__int64' to 'int', possible loss of data
+  (compiling source file '/UnitTest8.1char.cpp')
+  
+     Creating library D:\project\LB8.1char\x64\Debug\UnitTest8.1char.lib and object D:\project\LB8.1char\x64\Debug\UnitTest8.1char.exp
+  UnitTest8.1char.vcxproj -> D:\project\LB8.1char\x64\Debug\UnitTest8.1char.dll

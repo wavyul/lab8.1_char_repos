@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\project\\LB8.1char\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF374C41-1543-4EEF-BA89-2BB91D678EDB}|UnitTest8.1char\\UnitTest8.1char.vcxproj|D:\\project\\LB8.1char\\UnitTest8.1char\\UnitTest8.1char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{CF374C41-1543-4EEF-BA89-2BB91D678EDB}|UnitTest8.1char\\UnitTest8.1char.vcxproj|solutionrelative:UnitTest8.1char\\UnitTest8.1char.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{73D3200A-F857-4736-AEC6-1BED5A661BE1}|LB8.1char\\LB8.1char.vcxproj|D:\\project\\LB8.1char\\LB8.1char\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{73D3200A-F857-4736-AEC6-1BED5A661BE1}|LB8.1char\\LB8.1char.vcxproj|solutionrelative:LB8.1char\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitTest8.1char.cpp",
+              "DocumentMoniker": "D:\\project\\LB8.1char\\UnitTest8.1char\\UnitTest8.1char.cpp",
+              "RelativeDocumentMoniker": "UnitTest8.1char\\UnitTest8.1char.cpp",
+              "ToolTip": "D:\\project\\LB8.1char\\UnitTest8.1char\\UnitTest8.1char.cpp",
+              "RelativeToolTip": "UnitTest8.1char\\UnitTest8.1char.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T20:42:16.523Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "main.cpp",
+              "DocumentMoniker": "D:\\project\\LB8.1char\\LB8.1char\\main.cpp",
+              "RelativeDocumentMoniker": "LB8.1char\\main.cpp",
+              "ToolTip": "D:\\project\\LB8.1char\\LB8.1char\\main.cpp",
+              "RelativeToolTip": "LB8.1char\\main.cpp",
+              "ViewState": "AgIAACUAAAAAAAAAAADwv0IAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-10-27T20:41:36.619Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
